@@ -1,0 +1,24 @@
+{
+  "name": "journalengine",
+  "version": "1.0.0",
+  "description": "Lightweight blogging template engine, write simple HTML, CSS and JS pages and use them as templates",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "serve": "serve ./out",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wetzelbe/journalengine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wetzelbe/journalengine/issues"
+  },
+  "homepage": "https://github.com/wetzelbe/journalengine#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
