@@ -1,1 +1,0 @@
-console.log("All Files that are not used by the template engine are copied to the output")
